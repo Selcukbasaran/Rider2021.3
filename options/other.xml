@@ -1,0 +1,58 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="26kaGryYTHgzgThhSKQc1mAWqAN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26kkSLzoaUzn4uePCBYc41CLqFY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="discord&#10;discor&#10;disco&#10;disc&#10;dis" />
+    <property name="MarketplacePluginsSearchHistory" value="discord&#10;copil&#10;auto&#10;a&#10;f" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="Rider.Last.Started.IDE.Build" value="RD-213.6775.4" />
+    <property name="SettingsSearchHistory" value="plu" />
+    <property name="Tutorials.In.Recent.Projects.Disabled" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-213.6775.4-b7a637cece0322e2ade4d24243c33c4cc514704de8ec7b764b6a06e55b126e0a" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="bundled.plugins.list.saved.version" value="RD-213.6775.4" />
+    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-213.6775.4" />
+    <property name="experimentalFeature.editor.reader.mode" value="false" />
+    <property name="file.gist.reindex.count" value="18" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.rider.problems.view" value="1" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="ideavim.statistics.timestamp" value="1647969954837" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="problems_view_was_already_shown" value="true" />
+    <property name="registry.to.advanced.settings.migration.build" value="RD-213.6775.4" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.5.4" />
+    <property name="unity.user.content.model.migrated--355012e0" value="C:\Users\darkb\Desktop\TowerDefence0.0.1\.idea\.idea.TowerDefence0.0.1\.idea" />
+    <property name="unity.user.content.model.migrated--76425f64" value="C:\Users\darkb\Desktop\TowerDefence1.0\.idea\.idea.TowerDefence1.0\.idea" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="TowerDefence0.0.1-history" project-path="$USER_HOME$/Desktop/TowerDefence0.0.1" last-access-time="1647971516964" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="SHOW_NEW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>

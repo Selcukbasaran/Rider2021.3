@@ -1,0 +1,181 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="68" l="1647985628128" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1647986033264" />
+    </e>
+    <e n="DiscordActionGroup.ApplicationHideAction">
+      <i c="2" l="1647974650930" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1306" l="1647985912417" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="69" l="1647985941038" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="8" l="1647981342168" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1647985449283" />
+    </e>
+    <e n="EditorCut">
+      <i c="8" l="1647985626113" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="177" l="1647985457610" />
+    </e>
+    <e n="EditorDown">
+      <i c="449" l="1647985934975" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="3" l="1647981697509" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="4" l="1647984535793" />
+    </e>
+    <e n="EditorEnter">
+      <i c="69" l="1647985867078" />
+    </e>
+    <e n="EditorEscape">
+      <i c="9" l="1647985569394" />
+    </e>
+    <e n="EditorLeft">
+      <i c="492" l="1647985920238" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="2" l="1647981243031" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="23" l="1647985548605" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="1" l="1647981698458" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="4" l="1647985129245" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="14" l="1647985442580" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="10" l="1647985279039" />
+    </e>
+    <e n="EditorPaste">
+      <i c="6" l="1647985471251" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="2" l="1647985279670" />
+    </e>
+    <e n="EditorRight">
+      <i c="940" l="1647985938208" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="3" l="1647984532705" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1647977486873" />
+    </e>
+    <e n="EditorStartNewLineBefore">
+      <i c="1" l="1647977484769" />
+    </e>
+    <e n="EditorTab">
+      <i c="13" l="1647985919377" />
+    </e>
+    <e n="EditorUp">
+      <i c="307" l="1647985935305" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="49" l="1647984881053" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="2" l="1647973747777" />
+    </e>
+    <e n="MethodUp">
+      <i c="2" l="1647985633169" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="2" l="1647970652464" />
+    </e>
+    <e n="Refactorings.QuickListPopupAction">
+      <i c="1" l="1647981707333" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1647970183350" />
+    </e>
+    <e n="SaveDocument">
+      <i c="48" l="1647985941944" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="3" l="1647974496662" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="59" l="1647985437077" />
+    </e>
+    <e n="ShowPopupMenu">
+      <i c="1" l="1647981702167" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1647974497535" />
+    </e>
+    <e n="UnityShowImportantAction">
+      <i c="1" l="1647970718733" />
+    </e>
+    <e n="Unscramble">
+      <i c="1" l="1647974688594" />
+    </e>
+    <e n="VimPluginToggle">
+      <i c="1" l="1647970432043" />
+    </e>
+    <e n="com.almightyalpaca.jetbrains.plugins.discord.plugin.actions.AbstractSelectionAction$ToggleAction">
+      <i c="4" l="1647974660691" />
+    </e>
+    <e n="com.intellij.codeInsight.documentation.DocumentationComponent$MyGearActionGroup">
+      <i c="3" l="1647970693028" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="2" l="1647974556240" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1647974373206" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="325" l="1647970386065" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1647974982757" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1647977473136" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="5" l="1647986265959" />
+    </e>
+    <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
+      <i c="5" l="1647970639256" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$2">
+      <i c="1" l="1647970396070" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="1" l="1647970183121" />
+    </e>
+    <e n="copilot.applyInlays">
+      <i c="70" l="1647985250430" />
+    </e>
+    <e n="copilot.disableCopilot">
+      <i c="4" l="1647985252968" />
+    </e>
+    <e n="copilot.disposeInlays">
+      <i c="3" l="1647979023047" />
+    </e>
+    <e n="copilot.enableCopilot">
+      <i c="3" l="1647985235931" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.TerminalNewPredefinedSessionAction">
+      <i c="1" l="1647971520523" />
+    </e>
+  </component>
+</application>

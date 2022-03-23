@@ -1,0 +1,416 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="TowerDefence0.0.1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TowerBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#78#0" expanded="true" />
+                <marker date="1647986286495" expanded="true" signature="118:2188" ph="{...}" />
+                <marker date="1647986286495" expanded="true" signature="582:875" ph="{...}" />
+                <marker date="1647986286495" expanded="true" signature="901:1218" ph="{...}" />
+                <marker date="1647986286495" expanded="true" signature="1067:1146" ph="{...}" />
+                <marker date="1647986286495" expanded="true" signature="1236:1749" ph="{...}" />
+                <marker date="1647986286495" expanded="true" signature="1606:1670" ph="{...}" />
+                <marker date="1647986286495" expanded="true" signature="1791:1827" ph="{...}" />
+                <marker date="1647986286495" expanded="true" signature="1858:1888" ph="{...}" />
+                <marker date="1647986286495" expanded="true" signature="1893:2180" ph="/* private void OnDrawGizmosSelected() //Bu fonksiyonla oyun içinde kule seçince menzilini görebiliyoruz ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FindTarget.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+              <folding>
+                <marker date="1647986255544" expanded="true" signature="6:78" ph="..." />
+                <marker date="1647986255544" expanded="true" signature="119:4351" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="405:505" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="538:3047" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="566:2992" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="612:1661" ph="..." />
+                <marker date="1647986255544" expanded="true" signature="629:1621" ph="..." />
+                <marker date="1647986255544" expanded="true" signature="800:1261" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="857:1243" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="1055:1221" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="1345:1432" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="1453:1532" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="1699:2302" ph="..." />
+                <marker date="1647986255544" expanded="true" signature="1716:2279" ph="..." />
+                <marker date="1647986255544" expanded="true" signature="1837:2224" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="1894:2206" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="1974:2145" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="2342:2982" ph="..." />
+                <marker date="1647986255544" expanded="true" signature="2359:2959" ph="..." />
+                <marker date="1647986255544" expanded="true" signature="2517:2904" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="2574:2886" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="2654:2825" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="3053:3088" ph="/* PHYSICS OVERLAP ... */" />
+                <marker date="1647986255544" expanded="true" signature="3136:3374" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="3241:3367" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="3422:3552" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="3650:3750" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="3796:4348" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="3847:4216" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="3893:4205" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="4082:4167" ph="{...}" />
+                <marker date="1647986255544" expanded="true" signature="4267:4325" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TowerPlaceholder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding>
+                <marker date="1647984741367" expanded="true" signature="6:78" ph="..." />
+                <marker date="1647984741367" expanded="true" signature="79:214" ph="/// Bu script kulenin konulabileceği yerleri tutacak ve üzerine basılınca kule koyma aracını çalıştıracak. ... " />
+                <marker date="1647984741367" expanded="true" signature="260:996" ph="{...}" />
+                <marker date="1647984741367" expanded="true" signature="399:988" ph="{...}" />
+                <marker date="1647984741367" expanded="true" signature="540:628" ph="{...}" />
+                <marker date="1647984741367" expanded="true" signature="672:964" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TowerSelectorChild.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding>
+                <marker date="1647985941949" expanded="true" signature="6:96" ph="..." />
+                <marker date="1647985941949" expanded="true" signature="121:184" ph="{...}" />
+                <marker date="1647985941949" expanded="true" signature="232:1249" ph="{...}" />
+                <marker date="1647985941949" expanded="true" signature="239:532" ph="TowerPrefabs + Offsets" />
+                <marker date="1647985941949" expanded="true" signature="596:1247" ph="{...}" />
+                <marker date="1647985941949" expanded="true" signature="707:1241" ph="{...}" />
+                <marker date="1647985941949" expanded="true" signature="753:929" ph="..." />
+                <marker date="1647985941949" expanded="true" signature="770:906" ph="..." />
+                <marker date="1647985941949" expanded="true" signature="963:1003" ph="..." />
+                <marker date="1647985941949" expanded="true" signature="1036:1076" ph="..." />
+                <marker date="1647985941949" expanded="true" signature="1113:1153" ph="..." />
+                <marker date="1647985941949" expanded="true" signature="1174:1231" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="20" lastUsed="1648029631801" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1647969949220" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1647970028138" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/TowerBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FindTarget.cs" />
+      <option value="$PROJECT_DIR$/Assets/TowerPlaceholder.cs" />
+      <option value="$PROJECT_DIR$/Assets/FaceTheCamera.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TowerPlaceholder.cs" />
+      <option value="$PROJECT_DIR$/Assets/TowerSelectorChild.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.TowerDefence0.0.1/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="TowerDefence0.0.1-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13317000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2704918" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32977644" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39989838" />
+      <window_info anchor="bottom" id="Stacktrace" order="5" weight="0.32977644" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Problems View" order="7" weight="0.12957317" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="10" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="13" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="15" />
+      <window_info anchor="bottom" id="Terminal" order="16" weight="0.33028847" />
+      <window_info anchor="bottom" id="NuGet" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="18" />
+      <window_info anchor="bottom" id="Endpoints" order="19" />
+      <window_info anchor="bottom" id="Services" order="20" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="21" />
+      <window_info anchor="right" id="IL Viewer" order="0" weight="0.3053097" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+      <window_info anchor="right" id="documentation.v2" order="3" side_tool="true" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+    </layout>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>Event Log</value>
+      <value>Stacktrace</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>IL Viewer</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="626" y="350" key="#Notifications" timestamp="1647974372349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="350" key="#Notifications/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1647974372349" />
+    <state width="1237" height="365" key="GridCell.Tab.0.bottom" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.0.center" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.0.left" timestamp="1647986312841">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312841" />
+    <state width="1237" height="365" key="GridCell.Tab.0.right" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.1.bottom" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.1.center" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.1.left" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.1.right" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.2.bottom" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.2.center" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.2.left" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.2.right" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.3.bottom" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.3.center" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.3.left" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state width="1237" height="365" key="GridCell.Tab.3.right" timestamp="1647986312842">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="365" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647986312842" />
+    <state x="2081" y="186" key="SettingsEditor" timestamp="1647974543393">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="242" y="197" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1647971655620" />
+    <state x="2081" y="186" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1647974543393" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DetectionModes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <marker date="1647967987259" expanded="false" signature="6:78" ph="..." />
+            <marker date="1647967987259" expanded="true" signature="103:146" ph="{...}" />
+            <marker date="1647967987259" expanded="true" signature="191:196" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FaceTheCamera.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TowerPlaceholder.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TowerBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+            <marker date="1647986286495" expanded="true" signature="118:2188" ph="{...}" />
+            <marker date="1647986286495" expanded="true" signature="582:875" ph="{...}" />
+            <marker date="1647986286495" expanded="true" signature="901:1218" ph="{...}" />
+            <marker date="1647986286495" expanded="true" signature="1067:1146" ph="{...}" />
+            <marker date="1647986286495" expanded="true" signature="1236:1749" ph="{...}" />
+            <marker date="1647986286495" expanded="true" signature="1606:1670" ph="{...}" />
+            <marker date="1647986286495" expanded="true" signature="1791:1827" ph="{...}" />
+            <marker date="1647986286495" expanded="true" signature="1858:1888" ph="{...}" />
+            <marker date="1647986286495" expanded="true" signature="1893:2180" ph="/* private void OnDrawGizmosSelected() //Bu fonksiyonla oyun içinde kule seçince menzilini görebiliyoruz ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TowerPlaceholder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <marker date="1647984741367" expanded="true" signature="6:78" ph="..." />
+            <marker date="1647984741367" expanded="true" signature="79:214" ph="/// Bu script kulenin konulabileceği yerleri tutacak ve üzerine basılınca kule koyma aracını çalıştıracak. ... " />
+            <marker date="1647984741367" expanded="true" signature="260:996" ph="{...}" />
+            <marker date="1647984741367" expanded="true" signature="399:988" ph="{...}" />
+            <marker date="1647984741367" expanded="true" signature="540:628" ph="{...}" />
+            <marker date="1647984741367" expanded="true" signature="672:964" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TowerSelectorChild.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <marker date="1647985941949" expanded="true" signature="6:96" ph="..." />
+            <marker date="1647985941949" expanded="true" signature="121:184" ph="{...}" />
+            <marker date="1647985941949" expanded="true" signature="232:1249" ph="{...}" />
+            <marker date="1647985941949" expanded="true" signature="239:532" ph="TowerPrefabs + Offsets" />
+            <marker date="1647985941949" expanded="true" signature="596:1247" ph="{...}" />
+            <marker date="1647985941949" expanded="true" signature="707:1241" ph="{...}" />
+            <marker date="1647985941949" expanded="true" signature="753:929" ph="..." />
+            <marker date="1647985941949" expanded="true" signature="770:906" ph="..." />
+            <marker date="1647985941949" expanded="true" signature="963:1003" ph="..." />
+            <marker date="1647985941949" expanded="true" signature="1036:1076" ph="..." />
+            <marker date="1647985941949" expanded="true" signature="1113:1153" ph="..." />
+            <marker date="1647985941949" expanded="true" signature="1174:1231" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FindTarget.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding>
+            <marker date="1647986255544" expanded="true" signature="6:78" ph="..." />
+            <marker date="1647986255544" expanded="true" signature="119:4351" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="405:505" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="538:3047" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="566:2992" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="612:1661" ph="..." />
+            <marker date="1647986255544" expanded="true" signature="629:1621" ph="..." />
+            <marker date="1647986255544" expanded="true" signature="800:1261" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="857:1243" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="1055:1221" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="1345:1432" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="1453:1532" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="1699:2302" ph="..." />
+            <marker date="1647986255544" expanded="true" signature="1716:2279" ph="..." />
+            <marker date="1647986255544" expanded="true" signature="1837:2224" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="1894:2206" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="1974:2145" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="2342:2982" ph="..." />
+            <marker date="1647986255544" expanded="true" signature="2359:2959" ph="..." />
+            <marker date="1647986255544" expanded="true" signature="2517:2904" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="2574:2886" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="2654:2825" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="3053:3088" ph="/* PHYSICS OVERLAP ... */" />
+            <marker date="1647986255544" expanded="true" signature="3136:3374" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="3241:3367" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="3422:3552" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="3650:3750" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="3796:4348" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="3847:4216" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="3893:4205" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="4082:4167" ph="{...}" />
+            <marker date="1647986255544" expanded="true" signature="4267:4325" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
